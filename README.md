@@ -2,15 +2,13 @@
 
 **Fullstack Developer @ Prover Soluções em TI · .NET & React**
 
-🎓 Computer Science student at IBMR (6th semester, class of 2027) — Rio de Janeiro, Brasil
+🎓 Computer Science student at IBMR (6th semester, class of 2027) - Rio de Janeiro, Brasil
 
-💻 Building ERP, CRM and resource-control systems in a software house — C#, .NET, React and Next.js
+💻 Building ERP, CRM and resource-control systems in a software house - C#, .NET, React and Next.js
 
 🗄️ Backend focused: REST APIs, Entity Framework, SQL Server queries and Stored Procedures
 
-📊 Came from a data/process background at Sodexo — Power BI and analytics still part of the toolkit
-
-🌎 Fluent English — comfortable working and interviewing in it
+🌎 Fluent English - comfortable working and interviewing in it
 
 ---
 
